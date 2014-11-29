@@ -1,0 +1,9 @@
+
+v3 —-> v4
+After some more preliminary testing, I added a back piece to the bracket. Luckily, I also built a scale command into the back piece, so that when scaled to zero, it effectively doesn’t exist. New variable for this, “backpiece” added. After some minor confusion when manipulating the SCAD Document, I decided to add some comments for clarification. V5 will bring full comments for everything. Added new variables, length of hook and height of hook, which control the dimensions of the hook. Changed variables to be more accurate. Combined “thicknessofhinge” and “thicknessofbracket” into one, easier variable called “overallthickness” for consistency, as earlier, when the two had different values, things looked out of place. 
+
+v2 --> v3 (November 2014)
+Made percent tolerance a simple scale command. Flipped model on its side for better, faster printing. Fuly integrated new variable names. Made hinge holder go all the way around after preliminary testing of v1 and v2. 
+
+v1 --> v2  (November 2014)
+Added calculations for tolerance (printer and fittings/measurements) within variables. Added new variable names. Raised $fn significantly. 
