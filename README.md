@@ -13,5 +13,7 @@ All files for this project are in the "Versions" folder.
 
 So far, after working on this tonight, I'm on V3. There's no real need to use v1 or v2, but I leave them there as a way to show progress. A changelog is in the CHANGES.md section of the "Versions" folder. 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  If you'd like to use it in some way that the license restricts, feel free to contact me and I may make an exception.    
+
 
 If anyone wants more formats, tell me.  
