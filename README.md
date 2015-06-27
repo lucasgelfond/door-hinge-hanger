@@ -9,11 +9,10 @@ Unfortunately, there are no places in my house that are cold, dry, and can accom
 
 I designed this in OpenSCAD. It's parametric, and even has a percent error scaling calculation built in. I'm still working on printing (with an in-need-of-extrusion-help printer) so I can't provide support for that, but I'll get on it later. 
 
-All files for this project are in the "Versions" folder. 
+All old verisons are in the "Versions" tab.
 
-So far, after working on this tonight, I'm on V3. There's no real need to use v1 or v2, but I leave them there as a way to show progress. A changelog is in the CHANGES.md section of the "Versions" folder. 
+I'm coming back to look at this and it seems like this isn't the best written or best way of doing things ever. I'm considering going back to rewrite this and if I do, it will be here. I'll keep everyone posted. 
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  If you'd like to use it in some way that the license restricts, feel free to contact me and I may make an exception.    
 
-
-If anyone wants more formats, tell me.  
